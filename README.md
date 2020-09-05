@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm timothé DAvid ( Tim for the friends</h1>
+<h1 align="center">Hi 👋, I'm timothé David ( Tim for the friends</h1>
 <h3 align="center">Devlopper in him lost time , I love to create new think</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timothedavid" alt="timothedavid" /> </p>
