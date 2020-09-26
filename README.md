@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timothedavid" alt="timothedavid" /> </p>
 
-- 🔭 I’m currently working on **yago**
-
 - 🎓 I am studying **CS degree in #Strasbourg**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TimotheDavid/](https://github.com/TimotheDavid/)
