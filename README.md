@@ -19,7 +19,7 @@ I enjoy turning messy operational problems into simple, useful products — from
 - Building SaaS and custom software for businesses
 - Working across product, frontend, backend, and cloud infrastructure
 - Exploring Go and better ways to design maintainable systems
-- Building at [NUMESIA](https://numesia.ai)
+- Building at [SPICOM](https://spicom.co)
 - Sharing selected projects and experiments at [go.timothedavid.fr](https://go.timothedavid.fr)
 
 ## My usual toolbox
