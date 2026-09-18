@@ -5,7 +5,7 @@
 ### I turn business problems into useful software.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-go.timothedavid.fr-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://go.timothedavid.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn- timothe--david-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/timothe-david)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-timothe--david-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/timothe-david)
 [![Email](https://img.shields.io/badge/Email-me%40timothedavid.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@timothedavid.fr)
 
 </div>
@@ -75,4 +75,3 @@ Feel free to reach out about a project, an idea, or anything related to SaaS, AP
 <sub>Building useful things, one iteration at a time.</sub>
 
 </div>
-
