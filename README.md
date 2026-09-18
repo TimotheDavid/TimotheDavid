@@ -75,4 +75,4 @@ Feel free to reach out about a project, an idea, or anything related to SaaS, AP
 <sub>Building useful things, one iteration at a time.</sub>
 
 </div>
-<img width="1920" height="1096" alt="image" src="https://github.com/user-attachments/assets/d1b155a1-cd47-44d8-ad5e-2d8bcc38d8bb" />
+
